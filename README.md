@@ -321,8 +321,8 @@ Tarifmodellierung-GLM-vs-ML/
 ### Repository klonen
 
 ```bash
-git clone https://github.com/username/tarifmodellierung-glm-vs-ml.git
-cd tarifmodellierung-glm-vs-ml
+git clone https://github.com/MksB/tarifmodellierung-glm-vs-machine-learning.git
+cd tarifmodellierung-glm-vs-machine-learning
 ```
 
 ### Abhängigkeiten installieren
